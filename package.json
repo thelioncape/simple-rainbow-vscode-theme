@@ -1,0 +1,21 @@
+{
+    "name": "simple-rainbow",
+    "displayName": "Simple Rainbow",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Simple Rainbow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Simple Rainbow-color-theme.json"
+            }
+        ]
+    }
+}
