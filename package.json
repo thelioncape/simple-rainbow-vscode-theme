@@ -9,6 +9,7 @@
     "categories": [
         "Themes"
     ],
+    "repository": "https://github.com/thelioncape/simple-rainbow-vscode-theme",
     "contributes": {
         "themes": [
             {
